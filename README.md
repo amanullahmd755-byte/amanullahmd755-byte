@@ -105,13 +105,6 @@ Hi 👋 I'm **Md Amanullah**, an **MCA (AI & ML)** student passionate about Arti
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** Pehle `snake.yml` workflow setup karna hoga.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mdamanullah-blip/mdamanullah-blip/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
 
 ---
 
