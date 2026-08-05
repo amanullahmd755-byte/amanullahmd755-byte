@@ -122,4 +122,10 @@ Hi 👋 I'm **Md Amanullah**, an **MCA (AI & ML)** student passionate about Arti
 <i>"Keep Learning • Keep Building • Keep Growing 🚀"</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+
+
+
+git rm README.md
+git commit -m "Delete README"
+git push origin main
