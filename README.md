@@ -89,7 +89,7 @@ Hi 👋 I'm **Md Amanullah**, an **MCA (AI & ML)** student passionate about Arti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-------
+---
 
 # 💡 Developer Quote
 
