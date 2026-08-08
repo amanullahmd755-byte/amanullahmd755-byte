@@ -81,14 +81,14 @@ Hi 👋 I'm **Md Amanullah**, an **MCA (AI & ML)** student passionate about Arti
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=amanullahmd755-byte&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanullahmd755-byte&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
   />
 </p>
