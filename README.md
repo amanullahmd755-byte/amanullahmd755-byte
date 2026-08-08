@@ -96,16 +96,6 @@ Hi 👋 I'm **Md Amanullah**, an **MCA (AI & ML)** student passionate about Arti
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdamanullah-blip&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-
 ---
 
 # 💡 Developer Quote
@@ -122,10 +112,3 @@ Hi 👋 I'm **Md Amanullah**, an **MCA (AI & ML)** student passionate about Arti
 <i>"Keep Learning • Keep Building • Keep Growing 🚀"</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
-
-
-
-git rm README.md
-git commit -m "Delete README"
-git push origin main
